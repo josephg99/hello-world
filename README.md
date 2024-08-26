@@ -1,3 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
-I am a student at KTH.
+I am a student at KTH trying to code with Github.
